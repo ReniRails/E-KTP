@@ -15,12 +15,13 @@ class Request
 		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 		$response = curl_exec($ch);
-        curl_close($ch);
-        return $response;
+		curl_close($ch);
+		return $response;
 	}
 }
 
-class KTP{
+class KTP
+{
 	
 	protected $nik;
 	
