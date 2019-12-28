@@ -2,8 +2,8 @@
 
 class Constans
 {
-	const api_endpoint	= 'https://www.renirails.io';
-	const api_password	= 'ReniRails (https://www.renirails.io)';
+	const api_endpoint	= 'https://www.renirails.id';
+	const api_password	= 'ReniRails (https://www.renirails.id)';
 }
 
 class Request
