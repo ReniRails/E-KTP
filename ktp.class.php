@@ -3,7 +3,7 @@
 class Constans
 {
 	const api_endpoint	= 'https://www.renirails.id';
-	const api_password	= 'ReniRails (https://www.renirails.id)';
+	const api_password	= 'YOUR_ACCESS_KEY';
 }
 
 class Request
